@@ -30,6 +30,6 @@ let temperature = null // null --> standalone value
 let later; // undifined
 // Last is -> symbol, which is used for uniqueness, specially in devlopment libraries like react.. 
 
-// (ii) Non - premitive 
+// (ii) Non - premitive or Refrence
 
-// object , we studied about the object datatype later in details.. 
+// Objects, Arrays and Functions, we studied about the object datatype later in details.. 
