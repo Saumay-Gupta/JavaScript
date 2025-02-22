@@ -23,7 +23,7 @@ console.log(b);
 // (i) Premitive are:-
 
 let x = 34 // number
-let bigX = 4768723687 // bigint
+let bigX = 4768723687 // BigInt
 let y = "name" // string
 let isLoggedIn = true // boolean
 let temperature = null // null --> standalone value
